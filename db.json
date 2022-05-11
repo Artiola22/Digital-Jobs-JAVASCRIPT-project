@@ -1,0 +1,188 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Tirana",
+      "image": "https://preview.redd.it/qzl76zve3n541.jpg?auto=webp&s=92f26c06f3769e14e056eddb148f7c38420f78a1",
+      "info": "Tirana city is thecapital of Albania. It lies 17 miles (27 km) east of the Adriatic Sea coast and along the Ishm River, at the end of a fertile plain. It is not easy to describe Tirana in a few words. Descriptions such as “a vibrant city”, “colorful city” are merely an attempt to give some sort of impression of the culture, passion and enjoyment to be found in the city. Whether it is a visit in one of the attractions, museums and surrounding castles or an evening at clubs and bars in the most trendiest parts of the city, allow yourself to be inspired by the joys that await you in Tirana."
+    },
+    {
+      "id": 2,
+      "name": "Durres",
+      "image": "https://www.shkendijatravel.com/wp-content/uploads/2021/02/Durres-Albania-pedonalja-qendres.jpg",
+      "info": "Durres is a versatile port city with both a modern and ancient appeal. If fun in the sun is in order look no further than the waterfront, where Albania’s largest and liveliest beach buzzes with activity in summer. Durres is also replete with Roman and Byzantine heritage – you can discover the remnants of Albania’s biggest amphitheatre here, while both the city defences and forum date back 1500 years. You could also travel inland to see the castle where Albanian national icon Skanderbeg fought off three Ottoman sieges in the 1400s."
+    },
+    {
+      "id": 3,
+      "name": "Vlore",
+      "image": "https://albania.al/wp-content/uploads/2019/08/klc1dx97580fade332e47_2400_1400_C_75.jpg",
+      "info": "Vlore is a harbour city that holds special meaning for Albanians, as this is where the country declared its independence from the Ottoman Empire at the start of the 20th century. So you can take a whistle-stop tour of monuments and museums celebrating the statesman Ismail Qemali’s first government, and in doing so get to know a little more about what it means to be Albanian. If you’d like ideas for days trips the wider region is both untamed and beautiful. Relaxing tourist beaches with clear waters are just a handful of kilometres away, and if you follow the coastal road south there’s a string of charming little resorts punctuated by the vast mountainscapes of the Llogora National Park. The Llogara Pass is one of Albania’s most famous places, with the road providing one of the most spectacular drives in the whole world. Located in the middle of the Llogara National Park, the road travels to over 1,000 metres above sea level and the scenery will take your breath away."
+    },
+    {
+      "id": 4,
+      "name": "Korce",
+      "image": "https://i.pinimg.com/originals/02/de/15/02de15161cabebdcb597d3240265484e.jpg",
+      "info": "The small city of Korca (also written as Korçë or Korça) in southeastern Albania might only be 3 hours from Tirana by car, but it feels completely off the beaten tourist track. The country’s eighth-largest city by population, Korçë (pronounced ‘kor-cha’) has a history that dates back to the 13th century. It’s known for its role in Albanian culture and intellectual heritage (most famously for being home to the first Albanian language school), world-class museums, beautiful old churches, and pretty architecture."
+    },
+    {
+      "id": 5,
+      "name": "Shkodra",
+      "image": "https://i2.wp.com/www.shkoder.info/wp-content/uploads/2019/01/img_7679.jpg?resize=1364%2C2048",
+      "info": "Close to the border with Montenegro, Shkodra in Albania is the point of entry for the sublime natural landscapes in almost every direction from the city. East is Drin River that flows through canyons, right to the west is the Adriatic Sea and its sandy beaches, and northeast are the Albanian Alps where the country’s  tallest peaks can be conquered. For history buffs there’s plenty to catch the eye as Shkodra has been on a key trading post for millennia, and both the Ancient Greeks and Romans settled here. Inside Shkodra you can acquaint yourself with Albanian history and culture, visiting mosques, cathedrals, workshops and photographic archives."
+    },
+    {
+      "id": 6,
+      "name": "Saranda",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ksamill-1.jpg",
+      "info": "Opposite the Greek island of Corfu, Saranda (Albania) is a quintessential Mediterranean destination, with five months of warm weather and a selection of dreamlike beaches up and down its coast. A typical scene around Saranda is a pebbly bay washed by clear turquoise waters and backed by limestone hills with aromatic scrub and olive trees. You can pick from tourist hotspots with family activities or secluded beaches in natural reserves. And if you need more than lazy days by the sea you can travel to quaint seaside villages, natural landmarks and, best of all, Butrint, a UNESCO-listed archaeological park."
+    },
+    {
+      "id": 7,
+      "name": "Gjirokaster",
+      "image": "https://i.pinimg.com/originals/6f/1d/e6/6f1de615979bf14e0df10f54bfe88055.jpg",
+      "info": "Gjirokastra is love on the first sight. A UNESCO World Heritage Site, the old town is famous for being a well-preserved city of authentic architecture and its fortress overlooking the entire city, the old houses lean against the slopes of the hills with their beautiful old wooden facades. Being the birthplace of the Nobel-laurate writer Ismail Kadare and also of the notorious communist leader Enver Hoxha, the city is intriguing and controversial as it preserves well all phases of history. There’s plenty to see, not only in this exceptional town, but also in the whole region. "
+    },
+    {
+      "id": 8,
+      "name": "Tepelene",
+      "image": "https://i0.wp.com/www.zgjohushqiptar.info/wp-content/uploads/2020/10/Kalaja_e_Tepelenes.jpg?fit=800%2C450&ssl=1",
+      "info": "Tepelena is a city in southern Albania, next to Gjirokastra, UNESCO site. The city is located at the bay of a hill and is surrounded by three rivers, which create a magnificent landscape. Tepelena bears the name of a famous man in the history of Albania, Ali Pasha Tepelena. It is a small town but with an impressive history. Here are some of the things to see in when you visit Tepelena: the castle of Ali Pashe Tepelena, The History Museum, Dragoti bridge, Cold water of Tepelena, Nivica Canyons, Progonati waterfall, many beautiful villages."
+    },
+    {
+      "id": 9,
+      "name": "Permet",
+      "image": "https://mediaim.expedia.com/localexpert/2052587/d8c85246-c48f-4603-820a-9130d88106c2.jpg?impolicy=resizecrop&rw=1005&rh=565",
+      "info": "Permet is a city in southern Albania, next to Gjirokastra, UNESCO site. It is a city with many names, the city of roses, the city of culinary, the city of saze music. It is surrounded by green forests and mountains. Vjosa river, the last wild river in Europe that flows across the city and villages creates breathtaking views. Here below you will find a list of things to do in Permet: visit Benja thermal baths, Lengarica Canyon, St. Mary’s Church (Village of Leusë), Alipostivan Tekke, Fir of Hotova National Park, Sopot Waterfall, Këlcyra Gorge, many traditional villages."
+    },
+    {
+      "id": 10,
+      "name": "Berat",
+      "image": "https://wander-lush.org/wp-content/uploads/2020/11/Emily-Lush-things-to-do-in-Albania-Berat-Hero.jpg",
+      "info": "This upland city in south-central Albania has 2,500 years of history, which has bestowed it with stunning archaeology, quaint residential areas and preserved monuments. Berat’s appeal lies in its UNESCO World Heritage architecture and the epic mountain scenery that shelters the city. Since coming under the yoke of the Ottoman Empire in the 1400s Berat is also a place where Christians and Muslims have lived together in relative peace, with churches and mosques sharing the same space. The cityscape is part of Berat’s charm, where picturesque stone houses on the steep hillsides seem to be stacked on top of each other."
+    },
+    {
+      "id": 11,
+      "name": "Himare",
+      "image": "https://www.intoalbania.com/wp-content/uploads/2018/03/himare-me-logo-1800-1.jpg",
+      "info": "The rocky coast of Southern Albania is dotted with picturesque villages that are home to some 28,000 people. Visitors have their pick from several spots, including Palasë, Dhërmi, Ilias, Vuno, Himarë, Pilur, Kudhes, Qeparo, Borsh, Piqeras, Sasaj, Lukove, Coraj, Kuc, Kallarat, Bolene and Vranisht. Although for those searching for something less secluded, but not as chaotic as a major city, look no further than the town of Himara. Himarë sports a seaside promenade, plentiful Greek-style tavernas, and like the rest of the area, its old town, built on a hill, bears the marks of a rich history. The old town, Kastro, is organized on and around the old castle and the coastal region of Spilea, the touristic and economic center of the region. North of Himarë, visitors can discover the rocky villages of Vuno, Ilias, Dhërmi, and Palasë. Dhermi, has become a popular destination among foreign and local tourists, thanks to the booming number of beach resorts."
+    },
+    {
+      "id": 12,
+      "name": "Pogradec",
+      "image": "https://images.unsplash.com/photo-1611757781293-ded09bc9fe95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMTAzMzB8MHwxfGFsbHx8fHx8fHx8fDE2MjQ5MzQzNTk&ixlib=rb-1.2.1&q=80&w=1080&utm_source=travelities&utm_medium=referral&utm_campaign=api-credit",
+      "info": "The city of Pogradec and its surrounding area, as one of the Albanian beauty pearls, provides much to discover for its visitors. The region dominated by the fantastic Ohrid Lake, surrounded by fields nestled before picturesque mountains, will be your panorama throughout your holidays in Pogradec. The harmony of nature, and the friendliness of the inhabitants, will bring you back again and again . The sunny days at the beaches along the lake, the strolls along the promenade, as well as the various specialty dishes and local wine enjoyed in the restaurants will provide unforgettable moments for you. Pogradeci is one of the most charming tourist resorts in Albania because of its position near the Ohrid Lake,which distinguishes itself for clear water. Fish Koran, which is similar to the trout, is reared in this lake. Besides the beautiful beach, your staying in Pogradec is made more interesting by the excursion to the tourist center of Drilon ( 5 km eastward ) with crystal clear fountains that fill the beautiful channels surrounded with trees and by ornamental plants."
+    },
+    {
+      "id": 13,
+      "name": "Tropoja",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pejzazh_Fshati_Shoshan.jpg",
+      "info": "Tropoja has been and remains the tourist pearl of the Albanian Alps where the natural beauties are perfectly intertwined with its many years of history. Tropoja is a place full of charm and beauty, a place that pleases the eye with its pure and calm nature. In Tropoja lives a community of people with a pure heart, clear mind, loving and very hospitable people."
+    },
+    {
+      "id": 14,
+      "name": "Kruja",
+      "image": "http://www.ivisitalbania.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/p/a/pazari_kruje2.jpg",
+      "info": "Located a short trip away from the capital Tirana, Kruja is a must-visit spot for anyone heading to Albania for the first time. Kruja is home to the national ethnographic museum, but it is best known for being where the Skanderbeg museum can be found. Located in the Kruja castle, the museum is one of Albania’s most important and popular tourist attractions. It was from this fortress that Albania’s hero – George Kastrioti Skanderbeg – defended the country from Ottoman invasion over a period spanning three decades. The castle also offers staggering views of the Adriatic Sea. The national park Qafe Shtama and the tomb of Sari Saltik are also located close to Kruja."
+    },
+    {
+      "id": 15,
+      "name": "Ksamil ",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78512540.jpg?k=1a512c0370a80ccac5be83c186f5138b122c0a36e27246755fd02c8a47c259cc&o=&hp=1",
+      "info": "The highlight of the Albanian Riviera is perhaps the Ksamil Islands, a remote group of three small islands located just off the coast, accessible only by boat from the small town of Ksamil. Part of the larger Butrint National Park, the Ksamil Islands are a fantastic example of Albania at its most untouched and unspoiled. Visiting the Blue Eye Spring is also a must for anyone who wants to experience what Ksamil has to offer during their magical Albanian break. July and August are the busiest time of year for the Ksamil Islands, but even then there are few tourists around here."
+    },
+    {
+      "id": 16,
+      "name": "Fier ",
+      "image": "https://64.media.tumblr.com/29e81d0dca61edeb2b5d534d452b45d9/tumblr_oz54n8UvN41vmh7uvo1_640.jpg",
+      "info": "Apollonia was once one of the most important cities in the world, and as such it is a must for anyone visiting Albania for the first time. Found in the heart of Albania, within easy reach from the city of Fier, Apollonia’s ruins are breathtaking and the views from this part of the country are superb too. Once upon a time, Apollonia was listed among the dominions of Pyrrhus of Epirus. Those days are long gone, but Apollonia should still be on the itinerary for anyone who wants to learn more about Albania’s rich history up close."
+    }
+  ],
+  "todo": [
+    {
+      "id": "1",
+      "name": "Nature and Adventure",
+      "image": "https://podelta.eu/to_s3/p,4,2020,delta_del_po_1591781467,birdwatching_3,d,13,luca_beretta.jpg",
+      "info": "Birdwatching. Pack the binoculars and bird watch in the coastal wetlands of Karavasta. Part of the Divjake-Karavasta National Park, the lagoon is the westernmost breeding site of the Dalmatian Pelican. For further birdwatching, visit Kune-Vain, Patok , Tale , Narta lagoon , the nature reserve beside the Drini River, home to spotted eagles, spoonbills and herons and also the Lake of Shkodra."
+    },
+    {
+      "id": "2",
+      "name": "Camping & Astrotourism",
+      "image": "https://thumbs.dreamstime.com/z/albania-camping-albanian-alps-129521269.jpg",
+      "info": "Albania is a paradise for nature-lovers, especially for campers. There are camping sites across all corners of the country that are affordable and hospitable. These spots also provide amenities and services for those who wish to visit Albania with their own camper vans or want to rent a tent. It is possible to camp in both national parks and along the coast, although camping may be forbidden in some areas so it’s always best to check with the information points provided by the National Agency of Protected Areas or the Municipality of the area you are visiting. At Shebenik-Jabllanicë National Park, near the town of Librazhd and north of Lake Ohrid, Astro-Tourism tours are being offered for the very first time."
+    },
+    {
+      "id": "3",
+      "name": "Climbing & Speology",
+      "image": "https://i.pinimg.com/originals/49/e7/12/49e7129390ce1048323ce8cfffb8fdc9.jpg",
+      "info": "The highest peak, Mount Korabi, on the border with Macedonia, towers 2,751 m above sea level. The cliffs of Llogara, Nemercka mountain at the south ,but also a vast range of mountains all over the country are perfect for alpinism or climbing. Other areas suitable for mountain climbing are the Albanian Alps in points such as: Vermosh, Theth, Razëm, Bogë, Valbona, etc. But also Tomori mountain, extending to the districts of Berat and Skrapar at Osum canyons or also Gjipe canyon at the Albanian Riviera. Throughout Albania, intrepid explorers will also find many vast caves just waiting to be discovered. Professional and amateur spelunkers alike will find no shortage of underground chambers to conquer. Near Shkodra there are at least 35 significant caves of a total of 68 designated as National Natural Monuments. An easily accessible cave is the Pëllumbas Cave near Tirana; it is Albania’s second largest. A sign-posted trail leads up to this cave, nestled in the beautiful Skorana Canyon on the Erzen River. Another cave of interest for tourists is Pirrogoshi cave. It is the largest in Albania, located in Skrapar. Other caves are: Kabashi cave (Gramsh) Cave Neziri (Mat), cave of Lek Pete in Kurvelesh, the cave of Treni in Devoll, etc."
+    },
+    {
+      "id": "4",
+      "name": "Cycling & Mountain Biking",
+      "image": "https://www.zbulo.org/wp-content/uploads/2019/06/180801_lines_balkan_2689-1024x681.jpg",
+      "info": "Cycling and Mountain Biking For all cycling lovers, Albania is becoming a very good destination to experience natural beauties and unique panoramic views . That exist many type of tours like the Tour of the Albanian Riviera , Unesco Sites , Albanian Alps or just touring around Tirana or other big cities and exloring the nature around. Albania is included in the project of Balkans trail Transdinarica .Also for the Mountain bike lovers The equipment for these sports should be taken with you, as they cannot be rented. Some of the tours are organized in the Albanian Alps, such as Theth, Bogë, Vermosh etc. Another bicycle tour is one which crosses the shores of Lake Shkodër or Tirana sorroundings."
+    },
+    {
+      "id": "5",
+      "name": "Diving",
+      "image": "https://invest-in-albania.org/wp-content/uploads/The-Magical-Underwater-World-of-Albanian-Caves12__700.jpg",
+      "info": "Professional diving is a new leisure activity in Albania, evolved over the last decade. Despite this, Albania’s rich coastline provides unique opportunities for divers, who can explore everything from the diverse fauna of the Mediterranean across two different seas, and even various sunken ships. For those wishing to dive into the Adriatic Sea, underwater sports centers are available north of Vlorë. Diving is particularly popular for the Ionian stretch of the Albanian coast, with numerous centers being available from Vlorë to Saranda. For the Adriatic, divers can practice the sport in Vlorë Bay and the Cape of Rodon. For the Ionian Coast, divers have their pick between the area north of Saranda, in Dhërmi, Jal, and Cape of Lagji, among others.   In the last years alone, joint Albanian-American expeditions have been crucial in discovering old and drowned ships in the area, some of which reach a depth of 33 m and a length of 150 m. Vlorë Bay ‘hides’ many such treasures, being home to several sunken ships of considerable antiquity. However, the most famous and popular sunken ship discovered in Albanian waters, is the Italian hospital ship “PO”, which sank in March 1941, after being shot by “Swordfish,” a British airplane. A sunken ship back to century III or IV B.C.E was discovered north of Saranda Bay and is considered one of the best-preserved relics in the Mediterranean. Some large amphoras were also found around there. Beyond these historical objects, divers can also observe the beautiful underwater scenery created by green and black algae and corals, among others."
+    },
+    {
+      "id": "6",
+      "name": "Paragliding",
+      "image": "https://skysports.al/wp-content/uploads/2021/05/Llogara-Skysport-Paragliding.jpg",
+      "info": "Paragliding, as an aeronautical sport, dates in 1990. And Albania’s topographic conditions and nature offer many opportunities to practice paragliding and related sports. The most popular and best spot for paragliding are the slopes of Llogora, in southern Albania, given the favorable direction of the wind. Llogara is also popular among international practitioners of the sport and is used by paratroopers as a meeting spot. Besides Llogara Mountain, paratroopers can also practice paragliding in Morava, near Korçë, Mount Dajti in Tirana, and Tarabosh Mount in Shkodra."
+    },
+    {
+      "id": "7",
+      "name": "Rafting & Kayaking",
+      "image": "https://images.rove.me/w_1920,q_85/ernn2vt9gad744lkafun/albania-rafting.jpg",
+      "info": "Albania is marked by numerous valleys that are home to magnificent rivers and streams, making them perfect for water sports, including rafting or kayaking. For rafting, the upper valleys of Osum are particularly suitable, the route including a trek along the superb, 17 km-long canyons of Osum. Another available flipside is exploring the Vjosa River and Devoll Valley in the south, the Valbona and Shala Valleys in the Albanian Alps and Komani Lake in the North, the Tujanit Scale in the Tirana River, near the capital, at the mouth of Mat River, as well as the Albanian Riviera (for canoeing)."
+    },
+    {
+      "id": "8",
+      "name": "Rally & Racing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRaOXUo8X5mwzxMK6OdEz0CdGQIE90MZ4ung&usqp=CAU",
+      "info": "Hundreds of extreme sports enthusiasts discover Albania through Rally Albania Hundreds of extreme sports enthusiasts discover Albania through Rally Albania or alike racing events. In Albania, they get to share their passion with participants from around the world and test their limits while exploring the country’s rugged north and paradise-like south. If you have a car or vehicle that qualifies for one of these races, don’t hesitate to discover all of Albania like few have had the opportunity to see it. Through rally and racing, you will get to wade into the unexplored corners of Albanian in its natural beauty. Due to the diversity of its landscapes, there are those who call Albania “the Disneyland of the off-road vehicles!"
+    },
+    {
+      "id": "9",
+      "name": "Set & Sail",
+      "image": "https://secretescapes-web.imgix.net/sales/45666/e14ff06b_2a7f_45af_a131_2fd8b0660f34.jpg?w=535&h=372&fit=crop&crop=entropy&auto=format,compress",
+      "info": "Albania has several ports of entry, with Durres, Vlorë, Saranda, Shengjin and Himarë being the main ones. These commercial ports also have a few facilities for visiting yachts. A new marina in Orikum, near Vlorë, offers some facilities for yachts, while more marinas are planned for the two biggest harbors of Durres and Vlorë. Small boats can anchor at various minor ports, including in Durrës (Karpen), Radhimë (Vlorë), Port Palermo, Jal, Bunec, and Ksamil, in the Albanian Riviera. If you have a boat available, we suggest that you visit the entirety of the Albanian coastline for a full and diverse experience of what Albania has to offer. For those who wish to explore Albania by boat, pick among various cruisers that offer tours of Albania’s water attractions. We also recommend to take the ferry to “Koman Lake” to immerse yourself among the vertiginous views offered by the High Mountains of northern Albania. The jaded waters of the lake are surrounded by rugged and verdant towering cliffs, and this peaceful cruise is the perfect opportunity for a few hours of tranquility, or for exploring Albania’s rich wildlife. Birders should look out for pygmy cormorants, herons, and golden eagles."
+    },
+    {
+      "id": "10",
+      "name": "Horse Riding",
+      "image": "https://photos.tpn.to/jh/sr/ti/ko/299x225.jpg",
+      "info": "Horse riding is practiced mainly in districts that have high quality horse-breeding centers, such as in Shkodër, Durrës, Tiranë, Elbasan (Cërrik), Korçë, Divjakë, Berat, Vlorë, Fusha e Pelave at Lura, Shishtavec in Kukës, Zagoria area, Vjosa, Drinos valley nearby Gjirokastër etc. The geographic range of this sport is very interesting, as the nature in each of the above spots is combined with certain natural, historical and traditional elements. For horse riding enthusiasts in the capital, there are centers that offer horse riding, such as Mullet, Pezë etj."
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Ilir",
+      "lastName": "Rukaj",
+      "id": "test@email.com",
+      "password": "test"
+    },
+    {
+      "firstName": "Artiola",
+      "lastName": "Caka",
+      "id": "artiola@email.co",
+      "password": "artiola"
+    }
+  ],
+  "messages": [
+    {
+      "firstName": "Artiola",
+      "id": "artiola@email.co",
+      "message": "hey"
+    },
+    {
+      "firstName": "Ilir",
+      "id": "timi@gmail",
+      "message": "nuk jam timi"
+    }
+  ]
+}
